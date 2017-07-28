@@ -10,7 +10,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i("s","我写错了 需要更正");
+        Log.i("s","master  初始");
 
 
 
