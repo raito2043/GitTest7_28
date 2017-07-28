@@ -11,6 +11,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("s","我写错了 需要更正");
-        Log.i("s","add feature-4 v2.0版");
+        Log.i("s","add feature-4 v2.1修正版");
     }
 }
